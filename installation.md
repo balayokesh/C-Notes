@@ -1,4 +1,13 @@
 # Windows:
+* Download `.exe` file from [win-builds.org](http://win-builds.org)
+* Now the application will land you in a installation screen from where you can download all the softwares or files you need
+
+## Verify Installation:
+Open cmd and execute the below command  
+
+`gcc --version`  
+
+This should return your gcc version
 
 # Linux:
 Open terminal and run the below command:  
